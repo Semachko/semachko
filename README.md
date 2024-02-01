@@ -17,8 +17,8 @@ Tools and Technologies: .NET, MySQL, PostgreSQL
 
 
 ## Projects:
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+
+
 
 
 ## Contact me:
