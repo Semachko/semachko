@@ -1,6 +1,6 @@
 ## About me:
 
-I`m Danylo, C++/C# developer from Kyiv :ukraine:
+I`m Danylo, C++/C# developer from Kyiv.
 
 Сurrently a 3rd year student at the National University of Life and Environmental Sciences of Ukraine.
 
