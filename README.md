@@ -17,6 +17,8 @@ Tools and Technologies: .NET, MySQL, PostgreSQL
 
 
 ## Projects:
+[Notes](https://github.com/Semachko/Notes)
+
 [DekstopClock](https://github.com/Semachko/DekstopClock)
 
 [AirQualityMonitoring](https://github.com/Semachko/AirQualityMonitoring)
