@@ -17,6 +17,8 @@ Tools and Technologies: .NET, MySQL, PostgreSQL
 
 
 ## Projects:
+[Client-Server Chat](https://github.com/Semachko/client-server-chat)
+
 [Notes](https://github.com/Semachko/Notes)
 
 [DekstopClock](https://github.com/Semachko/DekstopClock)
