@@ -15,7 +15,6 @@ Tools and Technologies: .NET, MySQL, PostgreSQL
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 
-![image](https://github.com/user-attachments/assets/98b3e4dd-7930-408d-981a-720f590649d6)
 
 ## Projects:
 [Client-Server Chat](https://github.com/Semachko/client-server-chat)
