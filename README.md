@@ -24,4 +24,6 @@ Bachelor's degree of Software Engineering. At the National University of Life an
 
 ***Mail:*** vakdanek@gmail.com
 
+***LinkedIn:*** https://www.linkedin.com/in/danylo-vakulenko-75537629a/
+
 ***Telegram:*** @ssemechko
